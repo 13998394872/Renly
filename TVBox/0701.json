@@ -1,5 +1,5 @@
 
-// 配置地址 --> https://raw.githubusercontent.com/13998394872/Renly.github.io/main/json
+// 配置地址 --> https://raw.githubusercontent.com/13998394872/Renly.github.io/main/TVBox/0701.json
 {
 "spider":"https://raw.githubusercontent.com/13998394872/Renly.github.io/main/TVBox/0701.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnL1pKUTY2Ng=="]}]}],
