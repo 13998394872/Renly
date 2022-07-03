@@ -1,1 +1,1 @@
-新建
+http://gg.gg/Renly_BC
